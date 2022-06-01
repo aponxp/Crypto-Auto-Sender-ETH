@@ -1,2 +1,2 @@
-# Crypto-Auto-Sender
-Auto Cryptocurrency sender [ metamusk ] 
+# Crypto-Auto-Sender [ETH]
+Auto Cryptocurrency sender [ metamusk ]
